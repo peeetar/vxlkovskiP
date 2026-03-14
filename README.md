@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Petar! (/ˈpɛ.tar/)</h1>
 <h3 align="center">CS student passionate about SysAdmin and Homelabs</h3>
-<div align="center">
-<div align="center" style="font-family: 'Courier New', monospace; color: #00ff00; background-color: #000000; padding: 15px; border-radius: 5px; display: inline-block; margin: 10px 0;">
-
+```html
+<embed src="terminal.html" width="600" height="400">
 ```
-👀 I'm currently studying a BSc in Business Computing at Anatolia College - Thessaloniki.
-🌱 Currently managing a Proxmox Homelab w/ self-made services + automations
-👐 Open for any collaborations or projects!
-```
-
-</div>
 
 <h3>Let's get in touch!</h3>
 
