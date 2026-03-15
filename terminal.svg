@@ -1,0 +1,19 @@
+<svg width="600" height="280" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="280" fill="#0d1117" rx="8"/>
+  <rect width="600" height="30" fill="#161b22" rx="8"/>
+  
+  <!-- Traffic lights -->
+  <circle cx="16" cy="15" r="6" fill="#ff5f57"/>
+  <circle cx="40" cy="15" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="15" r="6" fill="#28c840"/>
+  
+  <!-- Terminal content -->
+  <text x="20" y="60" font-family="'Courier New', monospace" font-size="14" fill="#79c0ff">peeetar@github:~$ <tspan fill="#c9d1d9">whoami</tspan></text>
+  <text x="20" y="90" font-family="'Courier New', monospace" font-size="14" fill="#8b949e">peeetar</text>
+  
+  <text x="20" y="130" font-family="'Courier New', monospace" font-size="14" fill="#79c0ff">peeetar@github:~$ <tspan fill="#c9d1d9">cat config.md</tspan></text>
+  <text x="20" y="160" font-family="'Courier New', monospace" font-size="14" fill="#8b949e">Config files for my GitHub profile.</text>
+  
+  <text x="20" y="200" font-family="'Courier New', monospace" font-size="14" fill="#79c0ff">peeetar@github:~$</text>
+</svg>
