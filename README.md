@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Petar! (/ˈpɛ.tar/)</h1>
 <h3 align="center">CS student passionate about SysAdmin and Homelabs</h3>
+
+<div align="center">
+  
 ![Terminal Demo](./terminal.svg)
+  
+</div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/velkovskiiiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/velkovskipetar) [![Email](https://img.shields.io/badge/email-email?style=for-the-badge&color=gray)](mailto:petar@velkovski.xyz)
 
