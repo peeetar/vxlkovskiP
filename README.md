@@ -1,6 +1,70 @@
 <h1 align="center">Hi 👋, I'm Petar! (/ˈpɛ.tar/)</h1>
 <h3 align="center">CS student passionate about SysAdmin and Homelabs</h3>
+ <style>
+    body {
+      background: #1e1e1e;
+      color: #ddd;
+      font-family: 'Fira Mono', 'Consolas', monospace;
+      margin: 0;
+      padding: 20px;
+    }
+    .terminal {
+      background: #0d1117;
+      color: #58a6ff;
+      border-radius: 8px;
+      width: 600px;
+      max-width: 100%;
+      margin: 20px auto;
+      padding: 16px;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+      border: 1px solid #30363d;
+    }
+    .terminal-header {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 12px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid #30363d;
+    }
+    .terminal-btn { width: 12px; height: 12px; border-radius: 50%; }
+    .btn-red { background: #ff5f57; }
+    .btn-yellow { background: #ffbd2e; }
+    .btn-green { background: #28c840; }
+    .terminal-line { margin: 4px 0; }
+    .prompt { color: #79c0ff; }
+    .user { color: #79c0ff; }
+    .cmd { color: #c9d1d9; font-weight: bold; }
+    .output { color: #8b949e; }
+  </style>
 
+   <div class="terminal">
+    <div class="terminal-header">
+      <div class="terminal-btn btn-red"></div>
+      <div class="terminal-btn btn-yellow"></div>
+      <div class="terminal-btn btn-green"></div>
+    </div>
+    <div class="terminal-line">
+      <span class="prompt">peeetar@github</span><span class="prompt">:</span><span class="user">~</span><span class="prompt">$</span> <span class="cmd">whoami</span>
+    </div>
+    <div class="terminal-line">
+      <span class="output">hi! i'm petar, a CS student studying at ACT - thessaloniki</span>
+    </div>
+    <div class="terminal-line">
+      <span class="prompt">peeetar@github</span><span class="prompt">:</span><span class="user">~</span><span class="prompt">$</span> <span class="cmd">cat status</span>
+    </div>
+    <div class="terminal-line">
+      <span class="output">currently studying but always open to remote work and projects</span>
+    </div>
+    <div class="terminal-line">
+      <span class="output">managing a homelab w/ self-made services + automations</span>
+    </div>
+    <div class="terminal-line">
+      <span class="output">Config files for my GitHub profile.</span>
+    </div>
+    <div class="terminal-line">
+      <span class="prompt">peeetar@github</span><span class="prompt">:</span><span class="user">~</span><span class="prompt">$</span>
+    </div>
+  </div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/velkovskiiiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/velkovskipetar) [![Email](https://img.shields.io/badge/email-email?style=for-the-badge&color=gray)](mailto:petar@velkovski.xyz)
 
